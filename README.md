@@ -12,6 +12,6 @@ This is a simple Flask web application deployed on **Render**.
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/loan-eligibility.git
+git clone https://github.com/nagendrared/loan-eligibility.git
 cd loan-eligibilty
 
